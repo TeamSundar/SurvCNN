@@ -1,6 +1,6 @@
 # SurvCNN
 
-Redefining the utility of multi-omics data in cancer survival prediction.
+Redefining the utility of multi-omics data in cancer survival prediction. [Publication](https://www.mdpi.com/2072-6694/13/13/3106#)
 
 Introduction
 ------------
